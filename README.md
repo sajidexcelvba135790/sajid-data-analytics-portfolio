@@ -4,26 +4,19 @@ This repository showcases my collection of **Power BI dashboards and reports** b
 Each project demonstrates different aspects of **data analysis, DAX calculations, data modeling, and visualization design**, highlighting my ability to turn raw data into meaningful insights and actionable visuals.
 
 ---
- 
+
 ## 📊 Dashboards Included
  
-| Domain | Dashboard Name | Key Insights |
+| **Domain**                    | **Dashboard Name**                        | **Key Insights**                                                                                                                        |
+| ----------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sales**                     | **Sales Performance Dashboard**           | Regional performance, revenue trends, top products, and profit margins.                                                                 |
+| **Finance**                   | **Financial Overview Dashboard**          | Profit & loss summary, expense breakdown, and year-over-year (YoY) growth comparison.                                                   |
+| **HR**                        | **Employee Insights Dashboard**           | Attrition trends, headcount distribution, gender diversity, and workforce demographics.                                                 |
+| **Marketing**                 | **Campaign Analysis Dashboard**           | ROI tracking, campaign performance, engagement rate, and lead conversion insights.                                                      |
+| **Supply Chain & Operations** | **Supply Chain Dashboard**                | Inventory levels, delivery performance, order fulfillment rate, and demand forecasting patterns.                                        |
+| **Healthcare**                | **Healthcare Analytics Dashboard**        | Patient health insights, insurance pricing analysis, BMI vs. premium correlation, and policy risk segmentation.                         |
+| **Insurance**                 | **Insurance Business Insights Dashboard** | Premium pricing trends by age, gender, BMI, and smoking status; risk segmentation, claim patterns, and policyholder retention insights. |
 
-|---------|-----------------------------|---------------|
-
-| Sales   | Sales Performance Dashboard | Regional performance, revenue trends, top products |
-
-| Finance | Financial Overview          | Profit & loss, expenses breakdown, YoY comparison |
-
-| HR | Employee Insights | Attrition trends, headcount distribution, diversity metrics |
-
-| Marketing | Campaign Analysis | ROI tracking, engagement rate, lead conversion |
-
-| Supply Chain & Operations | Supply Chain Dashboard | Inventory levels, delivery performance, demand patterns |
-
-| Healthcare | Health Care Analytics Dashboard| Patient health trends, insurance pricing analysis, BMI vs. premium correlation |
-
-| Insurance |Insurance Business Insights Dashboard|InsPremium pricing trends by age, gender, BMI, and smoking status; risk segmentation, claim patterns, and retention insights. |
 
 ---
  
