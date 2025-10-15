@@ -52,7 +52,6 @@ If dashboards are published using *Power BI Publish to Web*, you can include:
 
 Created and maintained by **Sajid Abdul**  
 📧 [sajid.excelvba@gmail.com] | 💼 [www.linkedin.com/in/sajid-abdul-9338b6180]
- 
-📧 [your.email@example.com] | 💼 [LinkedIn Profile Link]
+
 
  
