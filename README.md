@@ -9,11 +9,11 @@ Each project demonstrates different aspects of **data analysis, DAX calculations
  
 | Domain | Dashboard Name | Key Insights |
 
-|--------|----------------|---------------|
+|---------|-----------------------------|---------------|
 
-| Sales | Sales Performance Dashboard | Regional performance, revenue trends, top products |
+| Sales   | Sales Performance Dashboard | Regional performance, revenue trends, top products |
 
-| Finance | Financial Overview | Profit & loss, expenses breakdown, YoY comparison |
+| Finance | Financial Overview          | Profit & loss, expenses breakdown, YoY comparison |
 
 | HR | Employee Insights | Attrition trends, headcount distribution, diversity metrics |
 
@@ -22,7 +22,8 @@ Each project demonstrates different aspects of **data analysis, DAX calculations
 | Supply Chain & Operations | Supply Chain Dashboard | Inventory levels, delivery performance, demand patterns |
 
 | Healthcare | Health Care Analytics Dashboard| Patient health trends, insurance pricing analysis, BMI vs. premium correlation |
- | Insurance |Insurance Business Insights Dashboard|InsPremium pricing trends by age, gender, BMI, and smoking status; risk segmentation, claim patterns, and retention insights. |
+
+| Insurance |Insurance Business Insights Dashboard|InsPremium pricing trends by age, gender, BMI, and smoking status; risk segmentation, claim patterns, and retention insights. |
 
 ---
  
